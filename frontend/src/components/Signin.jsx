@@ -8,6 +8,7 @@ const Signin = () => {
         e.preventDefault();
         // Add sign-in logic here
         console.log("Sign in with", { username, password });
+        alert("This page is still under construction")
     };
 
     return (

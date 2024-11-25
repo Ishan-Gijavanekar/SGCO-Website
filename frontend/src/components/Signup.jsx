@@ -13,6 +13,7 @@ const Signup = () => {
         // Add sign-up logic here
         console.log("Registered with", { username, password, email, address });
         // Redirect to Sign-In page
+        alert("This page is still under construction")
         navigate('/signin')
     };
 
