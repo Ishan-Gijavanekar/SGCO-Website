@@ -19,7 +19,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element = {<Home />}/>
-          <Route path="https://sgco-website.onrender.com//about" element = {<About />}/>
+          <Route path="https://sgco-website.onrender.com/about" element = {<About />}/>
           <Route path="/career" element = {<Carresrs />}/>
           <Route path="/contact" element = {<Contact />}/>
           <Route path="/signup" element = {<Signup />}/>
